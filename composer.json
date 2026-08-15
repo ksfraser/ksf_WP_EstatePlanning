@@ -1,0 +1,19 @@
+{
+    "name": "ksfraser/ksf-wp-estateplanning",
+    "description": "WordPress UI/hooks for estate planning",
+    "type": "library",
+    "require": {
+        "php": ">=7.3",
+        "ksfraser/ksf-estateplanning": "dev-main"
+    },
+    "autoload": {
+        "psr-4": {
+            "ksfraser\\WP\\EstatePlanning\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    }
+}

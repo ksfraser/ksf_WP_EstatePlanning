@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>Estate Planning Knowledge Base</title>
+    <pubDate>2026-08-14T12:00:00Z</pubDate>
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:base_site_url>http://example.com</wp:base_site_url>
+    
+    <item>
+      <title>Core Estate Planning Principles</title>
+      <link>http://example.com/core-principles</link>
+      <pubDate>2026-08-14T12:00:00Z</pubDate>
+      <dc:creator>admin</dc:creator>
+      <content:encoded><![CDATA[
+        <h2>Core Estate Planning Principles</h2>
+        <ul style="list-style-type: disc">
+          <li>Tax optimization across jurisdictions</li>
+          <li>Beneficiary allocation strategies</li>
+          <li>Compliance with inheritance regulations</li>
+          <li>Probate avoidance techniques</li>
+          <li>Intergenerational wealth transfer</li>
+        </ul>
+      ]]></content:encoded>
+      <wp:post_id>2</wp:post_id>
+      <wp:post_date>2026-08-14T12:00:00Z</wp:post_date>
+    </item>
+    
+    <item>
+      <title>Financial Institution Requirements</title>
+      <link>http://example.com/financial-institutions</link>
+      <pubDate>2026-08-14T12:00:00Z</pubDate>
+      <dc:creator>admin</dc:creator>
+      <content:encoded><![CDATA[
+        <h2>Financial Institution Requirements</h2>
+        <ul style="list-style-type: disc">
+          <li>Automated tax calculations</li>
+          <li>Compliance reporting</li>
+          <li>Scenario modeling capabilities</li>
+        </ul>
+      ]]></content:encoded>
+      <wp:post_id>3</wp:post_id>
+      <wp:post_date>2026-08-14T12:00:00Z</wp:post_date>
+    </item>
+    
+    <item>
+      <title>Legal Professional Needs</title>
+      <link>http://example.com/legal-professionals</link>
+      <pubDate>2026-08-14T12:00:00Z</pubDate>
+      <dc:creator>admin</dc:creator>
+      <content:encoded><![CDATA[
+        <h2>Legal Professional Needs</h2>
+        <ul style="list-style-type: disc">
+          <li>Executor document generation</li>
+          <li>Case management integration</li>
+          <li>Scenario-based planning simulations</li>
+        </ul>
+      ]]></content:encoded>
+      <wp:post_id>4</wp:post_id>
+      <wp:post_date>2026-08-14T12:00:00Z</wp:post_date>
+    </item>
+    
+    <item>
+      <title>Insurance Company Workflows</title>
+      <link>http://example.com/insurance-workflows</link>
+      <pubDate>2026-08-14T12:00:00Z</pubDate>
+      <dc:creator>admin</dc:creator>
+      <content:encoded><![CDATA[
+        <h2>Insurance Company Workflows</h2>
+        <ul style="list-style-type: disc">
+          <li>Actuarial modeling</li>
+          <li>Beneficiary validation</li>
+          <li>Policy settlement workflows</li>
+        </ul>
+      ]]></content:encoded>
+      <wp:post_id>5</wp:post_id>
+      <wp:post_date>2026-08-14T12:00:00Z</wp:post_date>
+    </item>
+    
+    <item>
+      <title>Acceptance Criteria List</title>
+      <link>http://example.com/acceptance-criteria</link>
+      <pubDate>2026-08-14T12:00:00Z</pubDate>
+      <dc:creator>admin</dc:creator>
+      <content:encoded><![CDATA[
+        <h2>Acceptance Criteria</h2>
+        <ul style="list-style-type: disc">
+          <li>Jurisdiction-specific tax rules</li>
+          <li>Regulatory report formatting</li>
+          <li>Scenario comparison analysis</li>
+        </ul>
+      ]]></content:encoded>
+      <wp:post_id>6</wp:post_id>
+      <wp:post_date>2026-08-14T12:00:00Z</wp:post_date>
+    </item>
+    
+    <item>
+      <title>Common Implementation Patterns</title>
+      <link>http://example.com/implementation-patterns</link>
+      <pubDate>2026-08-14T12:00:00Z</pubDate>
+      <dc:creator>admin</dc:creator>
+      <content:encoded><![CDATA[
+        <h2>Implementation Patterns</h2>
+        <ul style="list-style-type: disc">
+          <li>Strategy pattern</li>
+          <li>Factory pattern</li>
+          <li>Repository pattern</li>
+          <li>Observer pattern</li>
+        </ul>
+      ]]></content:encoded>
+      <wp:post_id>7</wp:post_id>
+      <wp:post_date>2026-08-14T12:00:00Z</wp:post_date>
+    </item>
+  </channel>
+</rss>
